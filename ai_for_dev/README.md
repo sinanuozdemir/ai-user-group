@@ -11,7 +11,7 @@ This streamlit allows users to input a pair of text inputs - a question and a st
 You can install required packages using pip:
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Usage
