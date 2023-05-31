@@ -1,6 +1,9 @@
 # The Fine-tuning notebook
 
-You can run the fine-tuning code in our [jupyter notebook](notebooks/fine_tuning_bert.ipynb) to see how to fine-tune a BERT model to perform QNLI - Question Natural Language Inference.
+We have two Jupyrer notebooks:
+
+1. [Fine-tuning BERT](notebooks/fine_tuning_bert.ipynb) to see how to fine-tune a BERT model to perform QNLI - Question Natural Language Inference
+2. [Using T5 off the shelf](notebooks/t5.ipynb) to see how we can use even a 3 year old open source model to solve tasks for us (for free!)
 
 # Streamlit App
 
