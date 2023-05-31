@@ -8,24 +8,18 @@ This streamlit allows users to input a pair of text inputs - a question and a st
 
 ## Requirements
 
-To run this application, you will need:
-
-- Python 3.7 or later
-- Streamlit
-- Transformers
-
-You can install these packages using pip:
+You can install required packages using pip:
 
 ```bash
-pip install streamlit transformers
+pip install -r requirements
 ```
 
 ## Usage
-To run the application:
+To run the streamlit application:
 
 1. Clone this repository or download the Streamlit app script.
 2. In the terminal, navigate to the directory containing the script.
-3. Run the command streamlit `run app.py`, replacing app.py with the name of the script if necessary. 
+3. Run the command `streamlit run app.py`, replacing app.py with the name of the script if necessary. 
 
 This will start the Streamlit server and open the application in your default web browser.
 
